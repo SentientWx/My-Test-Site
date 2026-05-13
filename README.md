@@ -1,3 +1,3 @@
 # site
-My Site
-Boooo
+<h1>My Site</h1>
+<h2>Boo Hiss</h2>
